@@ -169,6 +169,7 @@ audio::-webkit-media-controls-panel {
 /* Videos */
 video{
     margin-top: .9rem;
+    width: 90%;
     max-width: 35rem;
 }
 
